@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+ul {
+	width: 500px;
+}
+
+li {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	border: 1px solid red;
+}
+img {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+}
+.stealth {
+	display: none;
+}
